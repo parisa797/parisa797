@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <!-- Typing Text -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&size=22&color=FA8B00&background=9F8E3C00&center=true&vCenter=true&width=650&lines=Computer+Engineering+Graduate+at+IUST%F0%9F%8E%93;Lifetime+Learner%2C+AI+Enthusiast%F0%9F%A4%96;Interested+in+Computer+Vision+%26+Deep+Learning%F0%9F%93%9A"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&size=22&color=FA8B00&background=9F8E3C00&center=true&vCenter=true&width=650&lines=Computer+Engineering+Graduate+at+IUST%F0%9F%8E%93;Interested+in+%26+FrontEnd%F0%9F%93%9A"/>
 </p>
 <!-- Visits & Visitors -->
 <p align="center">
