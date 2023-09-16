@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Parisa Zafari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+
 <!-- Typing Text -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&size=22&color=FA8B00&background=9F8E3C00&center=true&vCenter=true&width=650&lines=Computer+Engineering+Graduate+at+IUST%F0%9F%8E%93;Interested+in+%26+FrontEnd%F0%9F%93%9A"/>
 </p>
+
 <!-- Visits & Visitors -->
 <p align="center">
   <img src="https://visitor-badge.imlete.cn/?id=github.parisa797&type=pv&label=%F0%9F%91%81visits&labelColor=ce4630&color=e05d44&style=for-the-badge">
@@ -14,7 +16,7 @@
 
 <p align="center">
   <!-- Streak -->
-  <img width="350" src="https://github-readme-streak-stats-nikomadol.vercel.app/?user=ali-sedaghi&theme=dark&hide_border=true" />
+  <img width="350" src="https://github-readme-streak-stats-nikomadol.vercel.app/?user=parisa797&theme=dark&hide_border=true" />
   
   <!-- Graph -->
   <img width="394" src="https://github-readme-activity-graph-nikomadol.vercel.app/graph/?username=parisa797&theme=dark&bg_color=151515&color=ffc57d&line=FA8B00&point=FDFDFD&hide_border=true&radius=8"/>
