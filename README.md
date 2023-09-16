@@ -6,8 +6,8 @@
 </p>
 <!-- Visits & Visitors -->
 <p align="center">
-  <img src="https://visitor-badge.imlete.cn/?id=github.ali-sedaghi&type=pv&label=%F0%9F%91%81visits&labelColor=ce4630&color=e05d44&style=for-the-badge">
-  <img src="https://visitor-badge.imlete.cn/?id=github.ali-sedaghi&type=uv&label=%F0%9F%91%A4visitors&labelColor=c79600&color=e1ad0e&style=for-the-badge">
+  <img src="https://visitor-badge.imlete.cn/?id=github.parisa797&type=pv&label=%F0%9F%91%81visits&labelColor=ce4630&color=e05d44&style=for-the-badge">
+  <img src="https://visitor-badge.imlete.cn/?id=github.parisa797&type=uv&label=%F0%9F%91%A4visitors&labelColor=c79600&color=e1ad0e&style=for-the-badge">
 </p>
 
 ## 📊 Stats
@@ -17,13 +17,13 @@
   <img width="350" src="https://github-readme-streak-stats-nikomadol.vercel.app/?user=ali-sedaghi&theme=dark&hide_border=true" />
   
   <!-- Graph -->
-  <img width="394" src="https://github-readme-activity-graph-nikomadol.vercel.app/graph/?username=ali-sedaghi&theme=dark&bg_color=151515&color=ffc57d&line=FA8B00&point=FDFDFD&hide_border=true&radius=8"/>
+  <img width="394" src="https://github-readme-activity-graph-nikomadol.vercel.app/graph/?username=parisa797&theme=dark&bg_color=151515&color=ffc57d&line=FA8B00&point=FDFDFD&hide_border=true&radius=8"/>
   
   <!-- Stats -->
-  <img width="431" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ali-sedaghi&text_bold=false&count_private=true&include_all_commits=true&show_icons=true&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true" />
+  <img width="431" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=parisa797&text_bold=false&count_private=true&include_all_commits=true&show_icons=true&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true" />
   
   <!-- Languages -->
-  <img width="313" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Ali-Sedaghi&langs_count=8&layout=compact&theme=dark&hide_border=true&title_color=FA8B00&hide=jupyter%20notebook,perl,assembly&exclude_repo=Berkeley-CS188-Projects,IoT-Sound-Level-Monitor,SmartRoom-ARM-STM32,IUST-CAD-Assignments" />
+  <img width="313" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=parisa797&langs_count=8&layout=compact&theme=dark&hide_border=true&title_color=FA8B00&hide=jupyter%20notebook,perl,assembly&exclude_repo=Berkeley-CS188-Projects,IoT-Sound-Level-Monitor,SmartRoom-ARM-STM32,IUST-CAD-Assignments" />
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parisa797&label=Profile%20views&color=0e75b6&style=flat" alt="parisa797" /> </p>
 
