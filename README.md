@@ -46,9 +46,17 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
-  </a>
+    <code><img title="Python" height="30" src="images/python.svg"></code>
+    <code><img title="android" height="30" src="images/python.svg"></code>
+    <code><img title="bash" height="30" src="images/python.svg"></code>
+    <code><img title="Python" height="30" src="images/python.svg"></code>
+    <code><img title="Python" height="30" src="images/python.svg"></code>
+    <code><img title="Python" height="30" src="images/python.svg"></code>
+    <code><img title="Python" height="30" src="images/python.svg"></code>
+    <code><img title="Python" height="30" src="images/python.svg"></code>
+    <code><img title="Python" height="30" src="images/python.svg"></code>
+    <code><img title="Python" height="30" src="images/python.svg"></code>
+  
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
       <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
