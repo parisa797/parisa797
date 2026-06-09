@@ -29,17 +29,16 @@
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parisa797&label=Profile%20views&color=0e75b6&style=flat" alt="parisa797" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parisa797" alt="parisa797" /></a> </p>
 
 - 🔭 I’m currently working on **UI/UX**
 
-- 👨‍💻 All of my projects are available at [https://github.com/parisa797?tab=repositories](https://github.com/parisa797?tab=repositories)
+- 👨‍💻 All of my projects are available at "https://github.com/parisa797?tab=repositories"
 
 - 📫 How to reach me **zafarii.parisaa@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/parisa-zafari-0619a2177" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/parisa-zafari-0619a2177" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/parisazafari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/parisa-zafari-0619a2177" height="30" width="40" /></a>
 </p>
 
 ## ⚡ Skills
